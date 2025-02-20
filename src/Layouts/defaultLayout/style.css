@@ -1,0 +1,21 @@
+.verticallayout {
+  width: 100%;
+  overflow-x: hidden;
+  direction: rtl;
+}
+.layout {
+  min-height: 100vh;
+  width: 100%;
+  
+}
+.horLayout {
+  height: 100vh;
+  overflow: auto;
+  display: flex;
+  
+}
+
+.children {
+  padding-left: 20px;
+  overflow: hidden;
+}
